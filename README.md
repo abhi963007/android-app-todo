@@ -91,4 +91,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Material Design 3 for the UI design guidelines
 - Jetpack Compose for modern Android UI development
-- The Android community for their continuous support and resources
+- The Android community for their continuous support and resources.
